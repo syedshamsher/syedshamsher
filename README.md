@@ -1,5 +1,10 @@
-### Hi there 👋
+### Hi there 👋,I'm Shamsher!
+### 🌱 I'm currently learning MERN Stack
+### 📫 How to reach me: shamsher78619@gmail.com
 
+![Github stats](https://github-readme-stats.vercel.app/api?username=syedshamsher&theme=highcontrast&show_icons=true&count_private=true)
+
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=syedshamsher&layout=compact)
 <!--
 **syedshamsher/syedshamsher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
