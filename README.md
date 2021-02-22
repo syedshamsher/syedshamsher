@@ -1,6 +1,18 @@
-### Hi there 👋,I'm Shamsher!
-### 🌱 I'm currently learning MERN Stack
-### 📫 How to reach me: shamsher78619@gmail.com
+<span align="center">
+ <h1>Hi there, I am Shamsher 👨‍💻 </h1>
+
+[![](https://img.icons8.com/material-two-tone/32/000000/linkedin.png)](www.linkedin.com/in/syedshamsher)
+[![](https://img.icons8.com/ios/32/000000/resume-website.png)](portfolio_link)
+
+</span>
+
+<img src="./code.gif" align="right" alt="Coder GIF" width="480" height="300">
+ 
+<div>
+- 🌱 I'm currently learning MERN Stack
+- 📫 How to reach me: shamsher78619@gmail.com
+- 💬 Ask me about anything, anytime 😄
+</div>
 
 <div align='center'>
   
@@ -22,4 +34,20 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- 
+<span align="center">
+ <h1>Hi there, I am Shamsher 👨‍💻 </h1>
+
+[![](https://img.icons8.com/material-two-tone/32/000000/linkedin.png)](www.linkedin.com/in/syedshamsher)
+[![](https://img.icons8.com/ios/32/000000/resume-website.png)](portfolio_link)
+
+</span>
+
+<img src="./code.gif" align="right" alt="Coder GIF" width="480" height="300">
+ 
+<div>
+- 🌱 I'm currently learning MERN Stack
+- 📫 How to reach me: shamsher78619@gmail.com
+- 💬 Ask me about anything, anytime 😄
+</div>
 -->
