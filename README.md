@@ -10,10 +10,10 @@
  ### 📫 How to reach me: shamsher78619@gmail.com
  ### 💬 Ask me about anything, anytime 😄
  
-  <a align="left" href="https://github.com/syedshamsher">
+  <div align="center" href="https://github.com/syedshamsher">
    <img align="center" src="https://github-readme-stats.vercel.app/api?username=syedshamsher&theme=highcontrast&show_icons=true&count_private=true&include_all_commits=true"       alt="Shamsher's github stats" />
- </a>
-  <div align="left">
+ </div>
+  <div align="center">
    <img src="./code.gif" align="left" alt="Coder GIF" width="480" height="300">
   </div>
 <!--
