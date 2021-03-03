@@ -2,7 +2,7 @@
  <h1>Hi there, I am Shamsher 👨‍💻 </h1>
  
 [![](https://img.icons8.com/material-two-tone/32/000000/linkedin.png)](www.linkedin.com/in/syedshamsher)
-[![](https://shamsher.vercel.app/)](portfolio_link)
+[![](https://img.icons8.com/ios/32/000000/resume-website.png)](https://shamsher.vercel.app/)
 
 </span>
 
