@@ -14,9 +14,10 @@
    <img align="center" src="https://github-readme-stats.vercel.app/api?username=syedshamsher&theme=highcontrast&show_icons=true&count_private=true&include_all_commits=true"       alt="Shamsher's github stats" />
  </div>
  
-  <div align="center">
+  <div style="display:flex, justify-content:center">
    <img src="./code.gif" align="left" alt="Coder GIF" width="480" height="300">
   </div>
+  
 <!--
 **syedshamsher/syedshamsher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
