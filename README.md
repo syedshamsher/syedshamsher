@@ -1,18 +1,18 @@
 <span align="left">
- <h4>Hi there, I am Shamsher 👨‍💻 </h1>
+ <h3>Hi there, I am Shamsher 👨‍💻 </h3>
+ 
+ <p>I'm a Full Stack Web Developer based in Kolkata, INDIA. I enjoy creating things that live on the internet. My goal is to always build products that provide pixel-perfect, performant experiences. Shortly after graduating, I joined Masai School where I work on a wide variety of assignments and projects on a daily basis.</p>
+ <h4> 💬 Ask me about anything, anytime 😄 </h4>
  
 [![](https://img.icons8.com/material-two-tone/32/000000/linkedin.png)](www.linkedin.com/in/syedshamsher)
 [![](https://img.icons8.com/material-two-tone/32/000000/gmail.png)](mailto:shamsher78619@gmail.com)
 [![](https://img.icons8.com/ios/32/000000/resume-website.png)](https://shamsher.vercel.app/)
 
 </span>
-
- #### 🌱 I'm currently learning MERN Stack
- #### 💬 Ask me about anything, anytime 😄
  
   <div align="center" display="flex" href="https://github.com/syedshamsher">
    <img align="center" src="https://github-readme-stats.vercel.app/api?username=syedshamsher&theme=highcontrast&show_icons=true&count_private=true&include_all_commits=true"       alt="Shamsher's github stats" />
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=syedshamsher&count_private=true&theme=dark&layout=compact">
+   <img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=syedshamsher&count_private=true&theme=dark&layout=compact">
  </div>
  
  ### Technology and Tools
