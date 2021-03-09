@@ -16,8 +16,11 @@
 <img src="http://img.shields.io/badge/Postman-FA4566?style=flat&logo=postman&logoColor=white">
  
  <div align="center" display="flex" href="https://github.com/syedshamsher">
-   <img align="center" src="https://github-readme-stats.vercel.app/api?username=syedshamsher&theme=highcontrast&show_icons=true&count_private=true&include_all_commits=true"       alt="Shamsher's github stats" />
-   <img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=syedshamsher&count_private=true&theme=dark&layout=compact">
+   
+   ![Shamsher's github stats](https://github-readme-stats.vercel.app/api?username=syedshamsher&bg_color=130,5d37c5,0e1eaa,319197&title_color=fff&text_color=fff&show_icons=true&count_private=true&include_all_commits=true)
+
+ </div>
+   <img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=syedshamsher&count_private=true&theme=light&layout=compact">
  </div>
 
   <div align="center">
