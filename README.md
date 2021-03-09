@@ -16,11 +16,13 @@
 <img src="http://img.shields.io/badge/Postman-FA4566?style=flat&logo=postman&logoColor=white">
  
  <div align="center" display="flex" href="https://github.com/syedshamsher">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=syedshamsher&title_color=fff&text_color=fff&show_icons=true&count_private=true&bg_color=130,5d37c5,0e1eaa,319197&include_all_commits=true"       alt="Shamsher's github stats" />
-   <img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=syedshamsher&count_private=true&theme=light&layout=compact">
+ 
+ <img align="center" margin=10 src="https://github-readme-stats.vercel.app/api?username=syedshamsher&title_color=fff&text_color=fff&show_icons=true&count_private=true&bg_color=130,5d37c5,0e1eaa,319197&include_all_commits=true"       alt="Shamsher's github stats" />
+ 
+   <img align="center" margin=10  src="https://github-readme-stats.vercel.app/api/top-langs/?username=syedshamsher&count_private=true&theme=light&layout=compact">
 
   <div align="center">
-   <img src="./code.gif" align="center" alt="Coder GIF" width="480" height="300">
+   <img src="./code.gif" margin=10 align="center" alt="Coder GIF" width="480" height="300">
   </div>
   
 <!--
