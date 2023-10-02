@@ -1,7 +1,7 @@
 <span align="left">
  <h3>Hi there, I am Shamsher 👨‍💻 </h3>
  
- <p>I'm a Full Stack Web Developer based in Kolkata, INDIA. I enjoy creating things that live on the internet. My goal is to always build products that provide pixel-perfect, performant experiences. Shortly after graduating, I joined Masai School where I work on a wide variety of assignments and projects on a daily basis.</p>
+ <p>I'm a Software Engineer based in Hyderabad, INDIA. I enjoy creating things that live on the internet. My goal is to always build products that provide pixel-perfect, performant experiences.</p>
  <h4> 💬 Ask me about anything, anytime 😄 </h4>
  
 [![](https://img.icons8.com/material-two-tone/32/000000/linkedin.png)](www.linkedin.com/in/syedshamsher)
